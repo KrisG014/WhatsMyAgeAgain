@@ -4,7 +4,7 @@
 name = input("What is your name? ")
 
 # Ask for user's birth year
-year = int(input("In what year were you born? "))
+year = int(input("What's your birth year? "))
 
 # Ask for user's age
 age = int(input("How old are you? "))
