@@ -9,6 +9,10 @@ age = int(input("How old are you? "))
 # Calculate age in 5 years
 age_in_5_years = age + 5
 
+# Calculate age in 5 years
+age_in_10_years = age + 11
+
 # Print greeting and future age
 print(f"Hello, {name}!")
 print(f"In 5 years, you will be {age_in_5_years} years old.")
+print(f"In 10 years, you will be {age_in_10_years} years old.")
